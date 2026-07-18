@@ -1,10 +1,10 @@
-# Chaitanya Rongali
+# Rongali Chaitanya
 
-**Python automation, practical AI integration, and focused web tools for teams with repetitive operational work.**
+**Python automation and AI integration developer; creator and writer of [Noerong](https://noerong.com).**
 
 I build small, dependable systems that turn spreadsheets, documents, enquiries, and recurring tasks into reviewable workflows. My work is designed around clear inputs, honest implementation boundaries, automated checks, deployment, and documented handover.
 
-[Portfolio](https://www.rongalichaitanya.com) · [Email](mailto:hello@rongalichaitanya.com) · Based in India / UTC+5:30
+[Portfolio](https://www.rongalichaitanya.com) · [Noerong](https://noerong.com) · [LinkedIn](https://www.linkedin.com/in/rongali-chaitanya-29b4772a2) · [Email](mailto:hello@rongalichaitanya.com) · Based in India / UTC+5:30
 
 ## What I build
 
