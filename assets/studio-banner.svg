@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Rongali Chaitanya, founder of Noerong</title><desc id="desc">Product thinking, careful design and working software. Independent SaaS product studio in Bengaluru.</desc>
+<rect width="1200" height="360" rx="14" fill="#f5f1e8"/>
+<g stroke="#d7cebd" fill="none"><path d="M845 0v360M845 72h355M845 288h355"/><circle cx="1022" cy="180" r="112"/><circle cx="1022" cy="180" r="77"/><path d="M910 180h224M1022 68v224"/></g>
+<path d="M942 250V112l158 138V112" stroke="#ac593f" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="1135" cy="288" r="7" fill="#ac593f"/>
+<text x="54" y="58" font-family="Arial,sans-serif" font-size="15" letter-spacing="2.2" fill="#695f53">RONGALI CHAITANYA / FOUNDER, NOERONG</text>
+<text x="50" y="140" font-family="Georgia,serif" font-size="66" fill="#262920">Software with purpose.</text>
+<text x="54" y="196" font-family="Arial,sans-serif" font-size="24" fill="#514d43">Product thinking. Careful design. Working software.</text>
+<path d="M54 243h730" stroke="#d7cebd"/>
+<text x="54" y="285" font-family="Arial,sans-serif" font-size="17" fill="#695f53">INDEPENDENT SAAS PRODUCT STUDIO</text>
+<text x="54" y="320" font-family="Arial,sans-serif" font-size="16" fill="#ac593f">Bengaluru, India / noerong.com</text>
+</svg>
