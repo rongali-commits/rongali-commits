@@ -28,6 +28,8 @@ My work connects the experience a customer sees with the system a business needs
 
 These are independent studio projects. Public demonstrations use fictional or sample records. Repository documentation explains the implemented workflow, setup, checks and deployment boundaries. LedgerFlow's browser edition and Python pipeline are separate implementations; LeadDesk's public demo currently serves deterministic approved answers.
 
+**Open source:** Contributed a Python spider for 302 French hearing-aid centres, merged into [AllThePlaces](https://github.com/alltheplaces/alltheplaces/pull/19992).
+
 ## Engineering interests
 
 - **Product workflows:** proposal decisions, reservations, client delivery and operational dashboards.
